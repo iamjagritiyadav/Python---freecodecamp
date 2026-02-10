@@ -255,6 +255,3 @@ if x is None:
 
 ---
 
-
-
-Next: `03_data_structures.md`
