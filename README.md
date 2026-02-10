@@ -1,4 +1,4 @@
-# 🐍 Python — freeCodeCamp Full Playlist Repository
+# Python — freeCodeCamp Full Playlist Repository
 
 This repository is created to **systematically complete and revise the entire freeCodeCamp Python playlist**.
 
@@ -6,7 +6,7 @@ The goal of this repository is to finish **all Python videos in the freeCodeCamp
 
 ---
 
-## 📌 What this repository contains
+##  What this repository contains
 
 For **each video/course in the freeCodeCamp Python playlist**, this repository includes:
 - Python code written during the video
@@ -16,7 +16,7 @@ For **each video/course in the freeCodeCamp Python playlist**, this repository i
 
 ---
 
-## 🎯 Purpose of this Repository
+##  Purpose of this Repository
 - Complete the full freeCodeCamp Python playlist
 - Keep all Python learning in one structured repository
 - Use this repository for quick revision, interviews, and future reference
@@ -24,7 +24,7 @@ For **each video/course in the freeCodeCamp Python playlist**, this repository i
 
 ---
 
-## 📚 Source
+##  Source
 All content in this repository is based on the **freeCodeCamp Python playlist on YouTube**.
 
 <img width="575" height="677" alt="image" src="https://github.com/user-attachments/assets/80d545aa-556f-4340-b1b1-90aaa478f87c" />
