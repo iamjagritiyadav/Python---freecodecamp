@@ -340,16 +340,111 @@ age = int(input())
 
 ## 15. Quick Interview Questions
 
-* Why is Python called dynamically typed?
-* Difference between expression and statement?
-* Why strings are immutable?
-* What is truthy and falsy?
-* Difference between `is` and `==`?
+1. Why is Python called dynamically typed?
+2. Difference between expression and statement?
+3. Why strings are immutable?
+4. What is truthy and falsy?
+5. Difference between `is` and `==`?
 
 ---
 
-## Final Notes
+## 16. Answers to Interview Questions
 
-Mastering these fundamentals makes **every advanced topic easier**. If this file is strong, your entire Python foundation is strong.
+### 1. Why is Python called dynamically typed?
 
-Next: `02_operators_and_control_flow.md`
+Python is called dynamically typed because **the type of a variable is determined at runtime**, not at compile time. You do not need to explicitly declare the data type.
+
+```python
+x = 10      # int
+x = "ten"  # str
+```
+
+**Interview Point:**
+
+* Type is bound to the object, not the variable.
+
+---
+
+### 2. Difference between Expression and Statement
+
+| Expression                 | Statement             |
+| -------------------------- | --------------------- |
+| Produces a value           | Performs an action    |
+| Can be part of a statement | Cannot return a value |
+
+```python
+x + 5        # expression
+x = 10       # statement
+```
+
+**Interview Point:**
+
+* All expressions can be statements, but not all statements are expressions.
+
+---
+
+### 3. Why are strings immutable in Python?
+
+Strings are immutable to:
+
+* Improve memory efficiency (string interning)
+* Enhance performance
+* Ensure security and predictability
+
+```python
+s = "python"
+# s[0] = 'P'  ❌ Error
+```
+
+**Interview Point:**
+
+* Any string modification creates a new object.
+
+---
+
+### 4. What is Truthy and Falsy?
+
+Truthy values evaluate to `True` in a boolean context, falsy values evaluate to `False`.
+
+Falsy values:
+
+* `0`
+* `None`
+* `False`
+* `""`
+* `[]`, `{}`, `()`
+
+```python
+if []:
+    print("True")
+else:
+    print("False")
+```
+
+**Interview Point:**
+
+* Python does not require explicit boolean comparison.
+
+---
+
+### 5. Difference between `is` and `==`
+
+| `==`            | `is`                     |
+| --------------- | ------------------------ |
+| Compares values | Compares memory location |
+| Uses `__eq__()` | Checks object identity   |
+
+```python
+a = [1, 2]
+b = [1, 2]
+
+print(a == b)  # True
+print(a is b)  # False
+```
+
+**Interview Trap:**
+
+* `is` should only be used for `None` checks.
+
+
+
