@@ -354,8 +354,4 @@ Because default arguments are evaluated once and shared across function calls.
 def f(x, arr=[]):
     arr.append(x)
     return arr
-```
-
-
-
-Next: `04_functions_and_oop.md`
+``'
