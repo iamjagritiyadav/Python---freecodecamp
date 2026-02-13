@@ -1,4 +1,4 @@
-# Advanced Concepts (Deep Dive)
+# Advanced Concepts
 
 # Decorators
 
