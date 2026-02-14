@@ -1,5 +1,5 @@
 
-# Files, Lists & Data Processing Patterns (Deep Dive)
+# Files, Lists & Data Processing Patterns
 
 This section connects three powerful ideas:
 
