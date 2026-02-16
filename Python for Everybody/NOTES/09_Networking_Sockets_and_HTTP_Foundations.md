@@ -1,4 +1,4 @@
-# Networking, Sockets & HTTP Foundations (Deep System View)
+# Networking, Sockets & HTTP Foundations
 
 This section connects Python with the real world.
 
