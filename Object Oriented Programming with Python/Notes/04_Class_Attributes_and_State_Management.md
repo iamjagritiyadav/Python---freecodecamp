@@ -1,4 +1,4 @@
-# 04 – Class Attributes and State Management (Deep Dive)
+# 04 – Class Attributes and State Management
 
 This section is where OOP maturity actually begins.
 
