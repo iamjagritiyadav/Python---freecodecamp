@@ -1,4 +1,4 @@
-# Basics Fundamentals
+# Basic Fundamentals
 
 (Python Foundations Required Before Data Science Libraries)
 
