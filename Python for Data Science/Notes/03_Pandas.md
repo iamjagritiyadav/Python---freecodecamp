@@ -29,8 +29,6 @@ Core data structures:
 
 # 1. Series – Labeled 1D Array
 
-image_group{"layout":"carousel","aspect_ratio":"1:1","query":["pandas series structure diagram","pandas series index and values visualization","pandas series vs numpy array comparison diagram"],"num_per_query":1}
-
 A Series consists of:
 
 * Values (NumPy array internally)
@@ -55,8 +53,6 @@ Labels enable intelligent alignment during operations.
 ---
 
 # 2. DataFrame – Labeled 2D Table
-
-image_group{"layout":"carousel","aspect_ratio":"1:1","query":["pandas dataframe internal structure diagram","dataframe rows and columns labeled visualization","pandas dataframe memory block manager diagram"],"num_per_query":1}
 
 A DataFrame is:
 
@@ -181,8 +177,6 @@ Ignoring nulls leads to misleading results.
 
 # 7. GroupBy – Split, Apply, Combine
 
-image_group{"layout":"carousel","aspect_ratio":"1:1","query":["pandas groupby split apply combine diagram","groupby visualization pandas","pandas aggregation workflow diagram"],"num_per_query":1}
-
 GroupBy process:
 
 1. Split data into groups
@@ -206,8 +200,6 @@ This is one of the most powerful Pandas features.
 ---
 
 # 8. Merging & Joining Datasets
-
-image_group{"layout":"carousel","aspect_ratio":"1:1","query":["pandas merge types diagram","sql join types visual explanation","pandas inner outer left right join visualization"],"num_per_query":1}
 
 Real datasets are rarely single tables.
 
