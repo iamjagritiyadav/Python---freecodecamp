@@ -3,7 +3,7 @@
 This folder contains my structured notes and implementation work from the **Python for Data Science** course taught by Maxwell Armi and published on the freeCodeCamp channel.
 
 Course Code Repository :
-[[https://github.com/datapublishings/Course-python-data-science(https://github.com/datapublishings/Course-python-data-science)]
+https://github.com/datapublishings/Course-python-data-science
 
 All credit for the original teaching belongs to the instructor.
 
